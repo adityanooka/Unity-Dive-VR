@@ -1,4 +1,5 @@
 #Unity Dive
+
 Collaborative VR for Environmental Awareness
 After several all-nighters and a few rogue computers in the lab, we completed Unity Dive at Bauhaus-Universität Weimar. This project is a collaborative, multi-user VR experience designed to raise awareness about water pollution through shared interaction.
 
