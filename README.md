@@ -17,7 +17,7 @@ The core of this project was testing the limits of collaborative mechanics and n
 4. Ownership Management: Utilized serialized manipulation access and ownership transfer to allow multiple users to interact with the same networked objects without desync or physics conflicts.
 
 _**Hardware and Software**_
-Engine: Unity 2022.3 (or your specific version)
-Networking: Netcode for GameObjects
-Hardware: Meta Quest 2 / Quest 3 via Link Cable or AirLink
+Engine: Unity 2022.3  
+Networking: Netcode for GameObjects  
+Hardware: Meta Quest 2 / Quest 3 via Link Cable or AirLink  
 Toolkit: XR Interaction Toolkit
